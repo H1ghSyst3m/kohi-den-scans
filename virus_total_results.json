@@ -2323,5 +2323,16 @@
         "file_type": "Android",
         "file_size": 81221,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.anidong-v14.2.apk",
+        "hash": "8a866d4973a410fdcea7f700f214e7094cf01eee924987947476ae5a2a75e337",
+        "link": "https://www.virustotal.com/gui/file/8a866d4973a410fdcea7f700f214e7094cf01eee924987947476ae5a2a75e337",
+        "scan_date": 1718928055,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 52238,
+        "detected_by": {}
     }
 ]
