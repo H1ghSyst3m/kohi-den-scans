@@ -2290,5 +2290,38 @@
         "file_type": "Android",
         "file_size": 81283,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pl.wbijam-v14.4.apk",
+        "hash": "65ede60b010c53fe7be5de983368cd2b522dfedb8b8ed43f576f46ef3b54e3ed",
+        "link": "https://www.virustotal.com/gui/file/65ede60b010c53fe7be5de983368cd2b522dfedb8b8ed43f576f46ef3b54e3ed",
+        "scan_date": 1718928012,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 674493,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.googledrive-v14.15.apk",
+        "hash": "1c39a4e393bad160ae3757ae4cc5f1483857c9e57f1551bf3f8d7405d5324288",
+        "link": "https://www.virustotal.com/gui/file/1c39a4e393bad160ae3757ae4cc5f1483857c9e57f1551bf3f8d7405d5324288",
+        "scan_date": 1718928014,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 62974,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.hanime-v14.18.apk",
+        "hash": "5f3961097548729f50b19ebc1c1e501d407838f5c6cdce69c6c60ecf29482300",
+        "link": "https://www.virustotal.com/gui/file/5f3961097548729f50b19ebc1c1e501d407838f5c6cdce69c6c60ecf29482300",
+        "scan_date": 1718928034,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 81221,
+        "detected_by": {}
     }
 ]
