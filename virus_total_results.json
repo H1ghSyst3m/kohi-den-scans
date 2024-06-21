@@ -2345,5 +2345,38 @@
         "file_type": "Android",
         "file_size": 686283,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-ar.anime4up-v14.56.apk",
+        "hash": "b0d092118de8e9bdeb3e137750ca5d67fa8ef78e6a492620069f4c8bec2effc7",
+        "link": "https://www.virustotal.com/gui/file/b0d092118de8e9bdeb3e137750ca5d67fa8ef78e6a492620069f4c8bec2effc7",
+        "scan_date": 1718971267,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 675299,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-sr.animebalkan-v14.5.apk",
+        "hash": "d393cc5877760df4910b48880ac9250cc2a62b8f50def868880b3a64a2bc126d",
+        "link": "https://www.virustotal.com/gui/file/d393cc5877760df4910b48880ac9250cc2a62b8f50def868880b3a64a2bc126d",
+        "scan_date": 1718971268,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 87410,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.cuevana-v14.31.apk",
+        "hash": "c210df4011d89d8129eb543002b46171274aad8980ce5963830baa191bca63c3",
+        "link": "https://www.virustotal.com/gui/file/c210df4011d89d8129eb543002b46171274aad8980ce5963830baa191bca63c3",
+        "scan_date": 1718971269,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 746956,
+        "detected_by": {}
     }
 ]
