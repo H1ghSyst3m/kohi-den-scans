@@ -2334,5 +2334,16 @@
         "file_type": "Android",
         "file_size": 52238,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-sr.animesrbija-v14.10.apk",
+        "hash": "297c33de3166adb7632aceb04b9d24e300e2eb8818455f4881791fe9047fdf04",
+        "link": "https://www.virustotal.com/gui/file/297c33de3166adb7632aceb04b9d24e300e2eb8818455f4881791fe9047fdf04",
+        "scan_date": 1718929322,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 686283,
+        "detected_by": {}
     }
 ]
