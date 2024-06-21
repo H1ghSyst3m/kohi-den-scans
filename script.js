@@ -1,11 +1,8 @@
 $(document).ready(function() {
-    // Register datetime plugin with DataTables
     $.fn.dataTable.moment('DD-MM-YYYY');
 
-    // Initialize Select2 for language filter
     $('#languageFilter').select2();
 
-    // Initialize DataTable
     var table = $('#virusTable').DataTable({
         columns: [
             { data: 'filename', title: 'Filename' },
@@ -18,15 +15,15 @@ $(document).ready(function() {
             { data: 'positives', title: 'Positives' },
             { data: 'total', title: 'Total' },
             { data: 'file_size', title: 'File Size (KB)', render: function(data, type, row) {
-                return (data / 1024).toFixed(2); // Convert to KB and format
+                return (data / 1024).toFixed(2);
             }, type: 'num' },
             { data: 'link', title: 'Details', render: function(data, type, row) {
                 return `<a href="${data}" target="_blank" class="details-btn">Details</a>`;
             }}
         ],
-        order: [[2, 'desc']], // Default sort by scan date
+        order: [[2, 'desc']],
         columnDefs: [
-            { type: 'num', targets: 5 }, // Ensure file size is sorted as numbers
+            { type: 'num', targets: 5 },
         ],
         autoWidth: false,
         createdRow: function(row, data, dataIndex) {
@@ -36,7 +33,6 @@ $(document).ready(function() {
         }
     });
 
-    // Function to fetch and update data
     function fetchDataAndUpdateTable() {
         $.getJSON('virus_total_results.json', function(data) {
             var groupedData = groupByFilename(data);
@@ -47,10 +43,8 @@ $(document).ready(function() {
         });
     }
 
-    // Initial data fetch
     fetchDataAndUpdateTable();
 
-    // Set interval for periodic updates (e.g., every 30 seconds)
     setInterval(fetchDataAndUpdateTable, 30000);
 
     function groupByFilename(data) {
@@ -85,7 +79,6 @@ $(document).ready(function() {
         $('#totalPositives').text(totalPositives);
     }
 
-    // Filter table based on selected languages
     $('#languageFilter').on('change', function() {
         var selectedLanguages = $(this).val();
         if (selectedLanguages.length === 0 || selectedLanguages.includes('all')) {
@@ -98,7 +91,6 @@ $(document).ready(function() {
         }
     });
 
-    // Sort table based on selected option
     $('#sortOptions').on('change', function() {
         var sortOption = $(this).val();
         var columnIdx, sortDir;
@@ -135,7 +127,6 @@ $(document).ready(function() {
         table.order([columnIdx, sortDir]).draw();
     });
 
-    // Apply sorted class to sorted column
     table.on('order.dt', function() {
         table.columns().every(function() {
             this.nodes().flatten().to$().removeClass('sorted');
