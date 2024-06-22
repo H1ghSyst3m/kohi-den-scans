@@ -2378,5 +2378,27 @@
         "file_type": "Android",
         "file_size": 746956,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-fr.nekosama-v14.11.apk",
+        "hash": "9d09ac4fa1c9a14c92119d5454a27874f47c0b32d8ea70fb49aceba1c6548cfc",
+        "link": "https://www.virustotal.com/gui/file/9d09ac4fa1c9a14c92119d5454a27874f47c0b32d8ea70fb49aceba1c6548cfc",
+        "scan_date": 1719057728,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 108712,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-fr.anisama-v14.6.apk",
+        "hash": "0355ed28ebdc2de91c4a39ebba382b8858e75d13175ba1481e587e99f7fa474b",
+        "link": "https://www.virustotal.com/gui/file/0355ed28ebdc2de91c4a39ebba382b8858e75d13175ba1481e587e99f7fa474b",
+        "scan_date": 1719057729,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 140477,
+        "detected_by": {}
     }
 ]
