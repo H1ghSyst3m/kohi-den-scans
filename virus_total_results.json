@@ -2807,5 +2807,16 @@
         "file_type": "Android",
         "file_size": 50648,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-id.kuramanime-v14.13.apk",
+        "hash": "95f9d35a8b077b9fba9d9c72a7eaa4c5338c3b98379562262a4c534c2b4557f4",
+        "link": "https://www.virustotal.com/gui/file/95f9d35a8b077b9fba9d9c72a7eaa4c5338c3b98379562262a4c534c2b4557f4",
+        "scan_date": 1719835206,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 156945,
+        "detected_by": {}
     }
 ]
