@@ -2829,5 +2829,27 @@
         "file_type": "Android",
         "file_size": 669229,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-id.oploverz-v14.26.apk",
+        "hash": "d43de7d931f9f438334b84c5ddbf03a1917c4209ad4474b04870e09401314d5e",
+        "link": "https://www.virustotal.com/gui/file/d43de7d931f9f438334b84c5ddbf03a1917c4209ad4474b04870e09401314d5e",
+        "scan_date": 1720310408,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 139034,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-id.samehadaku-v14.7.apk",
+        "hash": "97e70c9453421b1de99e04ed68592b652c4b157bfdd2db00dd37cbdef1d3be3a",
+        "link": "https://www.virustotal.com/gui/file/97e70c9453421b1de99e04ed68592b652c4b157bfdd2db00dd37cbdef1d3be3a",
+        "scan_date": 1720310409,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 93877,
+        "detected_by": {}
     }
 ]
