@@ -4017,5 +4017,16 @@
         "file_type": "Android",
         "file_size": 666918,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.jable-v14.1.apk",
+        "hash": "188c1258b37327fed16aa77a7a02e9dcc01e01ed7b5be6e07de29ea762378510",
+        "link": "https://www.virustotal.com/gui/file/188c1258b37327fed16aa77a7a02e9dcc01e01ed7b5be6e07de29ea762378510",
+        "scan_date": 1732017619,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 44239,
+        "detected_by": {}
     }
 ]
