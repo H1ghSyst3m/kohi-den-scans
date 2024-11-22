@@ -4028,5 +4028,27 @@
         "file_type": "Android",
         "file_size": 44239,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.aniplay-v14.8.apk",
+        "hash": "bd0fae4cc8f57742dd50f21f8df16e3d6044dc95ddd345a04191f55326761913",
+        "link": "https://www.virustotal.com/gui/file/bd0fae4cc8f57742dd50f21f8df16e3d6044dc95ddd345a04191f55326761913",
+        "scan_date": 1732276805,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 95397,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.torrentioanime-v14.10.apk",
+        "hash": "6a47780b54ba7fe2bddcad3492bcdb02bc16624ce5bb14551db2748e5716f73c",
+        "link": "https://www.virustotal.com/gui/file/6a47780b54ba7fe2bddcad3492bcdb02bc16624ce5bb14551db2748e5716f73c",
+        "scan_date": 1732276806,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 74879,
+        "detected_by": {}
     }
 ]
