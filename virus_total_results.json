@@ -4072,5 +4072,16 @@
         "file_type": "Android",
         "file_size": 80664,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.vizer-v14.21.apk",
+        "hash": "b68de1a324a8c88e274eef2b6000168363002369912205daa54629d475a718f2",
+        "link": "https://www.virustotal.com/gui/file/b68de1a324a8c88e274eef2b6000168363002369912205daa54629d475a718f2",
+        "scan_date": 1732492807,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 687218,
+        "detected_by": {}
     }
 ]
