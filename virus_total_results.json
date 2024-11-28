@@ -4083,5 +4083,27 @@
         "file_type": "Android",
         "file_size": 687218,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.torrentio-v14.2.apk",
+        "hash": "6201da7e69a37609de80b6f611c092132bc776bd307904623a0f0b7051b6aa66",
+        "link": "https://www.virustotal.com/gui/file/6201da7e69a37609de80b6f611c092132bc776bd307904623a0f0b7051b6aa66",
+        "scan_date": 1732752127,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 69639,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.torrentioanime-v14.11.apk",
+        "hash": "361f4626d4ec18bc6cb106172ab2014960883880b4675473f4af29b37dec982d",
+        "link": "https://www.virustotal.com/gui/file/361f4626d4ec18bc6cb106172ab2014960883880b4675473f4af29b37dec982d",
+        "scan_date": 1732752129,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 74910,
+        "detected_by": {}
     }
 ]
