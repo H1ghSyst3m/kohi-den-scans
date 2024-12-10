@@ -4116,5 +4116,60 @@
         "file_type": "Android",
         "file_size": 95136,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.kaido-v14.10.apk",
+        "hash": "86c69925a8592d21c503e691cd18b5c1fd7306e4e756500aaa3e5da8d2288750",
+        "link": "https://www.virustotal.com/gui/file/86c69925a8592d21c503e691cd18b5c1fd7306e4e756500aaa3e5da8d2288750",
+        "scan_date": 1733788812,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 111242,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.metroseries-v14.12.apk",
+        "hash": "b228b598d470346f5aa6584453e0ab7a6763473e35f1ce8fe3e75220c3736569",
+        "link": "https://www.virustotal.com/gui/file/b228b598d470346f5aa6584453e0ab7a6763473e35f1ce8fe3e75220c3736569",
+        "scan_date": 1733788815,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 70141,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.homecine-v14.2.apk",
+        "hash": "01d6c168eabaffe063749b937f62bd20de93afc6ab36c73ebd2035fd233d8cef",
+        "link": "https://www.virustotal.com/gui/file/01d6c168eabaffe063749b937f62bd20de93afc6ab36c73ebd2035fd233d8cef",
+        "scan_date": 1733788822,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 112227,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.pelisforte-v14.17.apk",
+        "hash": "a0dbf5c8d03b730f1f5279100fe14caea9bde74681cbdebad5848d56d8f72baf",
+        "link": "https://www.virustotal.com/gui/file/a0dbf5c8d03b730f1f5279100fe14caea9bde74681cbdebad5848d56d8f72baf",
+        "scan_date": 1733788825,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 652417,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.zoro-v14.47.apk",
+        "hash": "1cae09d405d9d6e38c95ce95edb226bf967df5c4464af8b2cc7d2e45638dc7ba",
+        "link": "https://www.virustotal.com/gui/file/1cae09d405d9d6e38c95ce95edb226bf967df5c4464af8b2cc7d2e45638dc7ba",
+        "scan_date": 1733788826,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 111111,
+        "detected_by": {}
     }
 ]
