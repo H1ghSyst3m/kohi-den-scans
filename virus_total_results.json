@@ -4182,5 +4182,16 @@
         "file_type": "Android",
         "file_size": 98656,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-ar.anime4up-v14.59.apk",
+        "hash": "b9064f8f75aac7e93733a5be1e5469351b680a8935c0d8273d35f2042a9d401e",
+        "link": "https://www.virustotal.com/gui/file/b9064f8f75aac7e93733a5be1e5469351b680a8935c0d8273d35f2042a9d401e",
+        "scan_date": 1734048009,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 678652,
+        "detected_by": {}
     }
 ]
