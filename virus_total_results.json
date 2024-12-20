@@ -4193,5 +4193,49 @@
         "file_type": "Android",
         "file_size": 678652,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.animesgratis-v14.16.apk",
+        "hash": "f031cdb647fba0e6d1cd5530d3fb0eb5a5e8cae889de28e5a78550fb4dd33a21",
+        "link": "https://www.virustotal.com/gui/file/f031cdb647fba0e6d1cd5530d3fb0eb5a5e8cae889de28e5a78550fb4dd33a21",
+        "scan_date": 1734652805,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 88380,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.animesotaku-v14.1.apk",
+        "hash": "5692d5932fa3edc5fc54a123061c2c5357f889deab965f1f2d00ab727a205584",
+        "link": "https://www.virustotal.com/gui/file/5692d5932fa3edc5fc54a123061c2c5357f889deab965f1f2d00ab727a205584",
+        "scan_date": 1734652807,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 103059,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.sudatchi-v14.5.apk",
+        "hash": "6dce0a1aeeb89c2626fcbf2a63a2cd3d952b92acaf6a749876e29d7c3d698c73",
+        "link": "https://www.virustotal.com/gui/file/6dce0a1aeeb89c2626fcbf2a63a2cd3d952b92acaf6a749876e29d7c3d698c73",
+        "scan_date": 1734652808,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 94607,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.animesonlinevip-v14.1.apk",
+        "hash": "5203cdcc03fe3b0457dee31e03c30c3f90de27f4b7c885bf6f7a8754523c772e",
+        "link": "https://www.virustotal.com/gui/file/5203cdcc03fe3b0457dee31e03c30c3f90de27f4b7c885bf6f7a8754523c772e",
+        "scan_date": 1734652809,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 61662,
+        "detected_by": {}
     }
 ]
