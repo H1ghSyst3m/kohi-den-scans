@@ -4237,5 +4237,16 @@
         "file_type": "Android",
         "file_size": 61662,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.darkmahou-v14.3.apk",
+        "hash": "2b2d5ba88b58facc914dba1bf40a6bdd7be20922d79438f3a233167b5c8314a6",
+        "link": "https://www.virustotal.com/gui/file/2b2d5ba88b58facc914dba1bf40a6bdd7be20922d79438f3a233167b5c8314a6",
+        "scan_date": 1734654017,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 106572,
+        "detected_by": {}
     }
 ]
