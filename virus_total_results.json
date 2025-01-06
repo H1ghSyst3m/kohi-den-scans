@@ -4270,5 +4270,16 @@
         "file_type": "Android",
         "file_size": 98687,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.zoro-v14.48.apk",
+        "hash": "f3c3bc33c898eaead560489e50a13d8638c88f20584a57d0a49c24ff17acd33a",
+        "link": "https://www.virustotal.com/gui/file/f3c3bc33c898eaead560489e50a13d8638c88f20584a57d0a49c24ff17acd33a",
+        "scan_date": 1736114973,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 159998,
+        "detected_by": {}
     }
 ]
