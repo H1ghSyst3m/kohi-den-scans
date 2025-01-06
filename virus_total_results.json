@@ -4281,5 +4281,71 @@
         "file_type": "Android",
         "file_size": 159998,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.kaido-v14.11.apk",
+        "hash": "73da16058f8f8b139cf896fa8145aa0c5ceb51fc785bd98763559f82d7571092",
+        "link": "https://www.virustotal.com/gui/file/73da16058f8f8b139cf896fa8145aa0c5ceb51fc785bd98763559f82d7571092",
+        "scan_date": 1736121606,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 160099,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.jable-v14.2.apk",
+        "hash": "c1c811a430e6b38ab4933405739938c1ad19bc64f56b46dde9a87207bb0ed5cf",
+        "link": "https://www.virustotal.com/gui/file/c1c811a430e6b38ab4933405739938c1ad19bc64f56b46dde9a87207bb0ed5cf",
+        "scan_date": 1736121607,
+        "positives": 0,
+        "total": 60,
+        "file_type": "Android",
+        "file_size": 44223,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.rule34video-v14.9.apk",
+        "hash": "d6c92ffe942a90edbafa9937026cfab93b268afb6c1f23a35a011e9b32c0e218",
+        "link": "https://www.virustotal.com/gui/file/d6c92ffe942a90edbafa9937026cfab93b268afb6c1f23a35a011e9b32c0e218",
+        "scan_date": 1736121608,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 46514,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-tr.hentaizm-v14.7.apk",
+        "hash": "2a4d03a20d2ddf35030998ae1832c83122f49a3322be666bd1bf99aef274aaf8",
+        "link": "https://www.virustotal.com/gui/file/2a4d03a20d2ddf35030998ae1832c83122f49a3322be666bd1bf99aef274aaf8",
+        "scan_date": 1736121609,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 48307,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-zh.xfani-v14.4.apk",
+        "hash": "d396b5ee49ef0a1d3fd4c1e5e66cb9a757a2e1469f18611d28b17347722a0251",
+        "link": "https://www.virustotal.com/gui/file/d396b5ee49ef0a1d3fd4c1e5e66cb9a757a2e1469f18611d28b17347722a0251",
+        "scan_date": 1736121610,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 148350,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.tomato-v14.1.apk",
+        "hash": "a0402c46c5f1accb1b7f925d531b37166e66c1f4c9cf7b8aa66b5aab04c44069",
+        "link": "https://www.virustotal.com/gui/file/a0402c46c5f1accb1b7f925d531b37166e66c1f4c9cf7b8aa66b5aab04c44069",
+        "scan_date": 1736121611,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 88292,
+        "detected_by": {}
     }
 ]
