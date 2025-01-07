@@ -4347,5 +4347,16 @@
         "file_type": "Android",
         "file_size": 88292,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-de.serienstream-v14.20.apk",
+        "hash": "03d17887d0c127095b19e2fc8e964321ae1df17fe0c86e651f677f18c187c9a7",
+        "link": "https://www.virustotal.com/gui/file/03d17887d0c127095b19e2fc8e964321ae1df17fe0c86e651f677f18c187c9a7",
+        "scan_date": 1736208125,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 102319,
+        "detected_by": {}
     }
 ]
