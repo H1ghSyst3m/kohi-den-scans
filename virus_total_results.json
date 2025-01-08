@@ -4358,5 +4358,16 @@
         "file_type": "Android",
         "file_size": 102319,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-tr.hentaizm-v14.8.apk",
+        "hash": "a7df62f5d7e7006445600aab249acf10338c1f18bfdf4441cbcaa04a672be56c",
+        "link": "https://www.virustotal.com/gui/file/a7df62f5d7e7006445600aab249acf10338c1f18bfdf4441cbcaa04a672be56c",
+        "scan_date": 1736294468,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 48312,
+        "detected_by": {}
     }
 ]
