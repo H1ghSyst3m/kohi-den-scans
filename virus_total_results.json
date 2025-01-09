@@ -4391,5 +4391,16 @@
         "file_type": "Android",
         "file_size": 1233623,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.monoschinos-v14.30.apk",
+        "hash": "503289f507e0b1b0ccbe30125faddfc885ef408797eeedbe24f171c1f178d9ad",
+        "link": "https://www.virustotal.com/gui/file/503289f507e0b1b0ccbe30125faddfc885ef408797eeedbe24f171c1f178d9ad",
+        "scan_date": 1736381782,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 118595,
+        "detected_by": {}
     }
 ]
