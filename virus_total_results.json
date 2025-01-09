@@ -4974,5 +4974,16 @@
         "file_type": "Android",
         "file_size": 749307,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.lmanime-v14.10.apk",
+        "hash": "8a8903ee7c335b256a2eab77e88e0c762cde1b0ce6677f849dda9c149866a821",
+        "link": "https://www.virustotal.com/gui/file/8a8903ee7c335b256a2eab77e88e0c762cde1b0ce6677f849dda9c149866a821",
+        "scan_date": 1736424982,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 97374,
+        "detected_by": {}
     }
 ]
