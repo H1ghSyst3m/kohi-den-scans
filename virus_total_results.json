@@ -4985,5 +4985,16 @@
         "file_type": "Android",
         "file_size": 97374,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.katanime-v14.1.apk",
+        "hash": "7dc5fbafd6c10ead34f12dd8cca390f0e28712de1942f57a3feb87d0a47ff939",
+        "link": "https://www.virustotal.com/gui/file/7dc5fbafd6c10ead34f12dd8cca390f0e28712de1942f57a3feb87d0a47ff939",
+        "scan_date": 1736598014,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 1230194,
+        "detected_by": {}
     }
 ]
