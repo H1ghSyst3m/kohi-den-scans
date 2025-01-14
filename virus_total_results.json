@@ -5018,5 +5018,16 @@
         "file_type": "Android",
         "file_size": 62187,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.hentaila-v14.28.apk",
+        "hash": "3eb531dd70b30920a7851fa91bb8053ca837305951a5e24d0c11fc1b6810b29c",
+        "link": "https://www.virustotal.com/gui/file/3eb531dd70b30920a7851fa91bb8053ca837305951a5e24d0c11fc1b6810b29c",
+        "scan_date": 1736799766,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 72499,
+        "detected_by": {}
     }
 ]
