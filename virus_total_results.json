@@ -5051,5 +5051,16 @@
         "file_type": "Android",
         "file_size": 63001,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-tr.tranimeizle-v14.20.apk",
+        "hash": "81d37896b4e3e76684e83624309b5bc25a830d9adfcf33abfc1ac611544bc8e9",
+        "link": "https://www.virustotal.com/gui/file/81d37896b4e3e76684e83624309b5bc25a830d9adfcf33abfc1ac611544bc8e9",
+        "scan_date": 1737072005,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 89718,
+        "detected_by": {}
     }
 ]
