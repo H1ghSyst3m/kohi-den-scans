@@ -5073,5 +5073,16 @@
         "file_type": "Android",
         "file_size": 644722,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.anizone-v14.1.apk",
+        "hash": "6d57d404599c581a5db3d5494e7c706c97e0c4b8f49397a9d02461c7ae62c48d",
+        "link": "https://www.virustotal.com/gui/file/6d57d404599c581a5db3d5494e7c706c97e0c4b8f49397a9d02461c7ae62c48d",
+        "scan_date": 1737158467,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 62094,
+        "detected_by": {}
     }
 ]
