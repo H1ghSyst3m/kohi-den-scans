@@ -5095,5 +5095,159 @@
         "file_type": "Android",
         "file_size": 645222,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.subsplease-v14.2.apk",
+        "hash": "365921bb794532384ce369904c03bf1a537a303925b2b12be76eba630f9110f2",
+        "link": "https://www.virustotal.com/gui/file/365921bb794532384ce369904c03bf1a537a303925b2b12be76eba630f9110f2",
+        "scan_date": 1737244866,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 47104,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.anitube-v14.22.apk",
+        "hash": "b182f476f8db4ae3c59d8816d63dce315dc8bfd3fa144a15cf9bde8dbbd0ad19",
+        "link": "https://www.virustotal.com/gui/file/b182f476f8db4ae3c59d8816d63dce315dc8bfd3fa144a15cf9bde8dbbd0ad19",
+        "scan_date": 1737244867,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 63271,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.katanime-v14.2.apk",
+        "hash": "66ff8e12139f2192830fd3a0159c549cf756421c61752e2913958d866cab707a",
+        "link": "https://www.virustotal.com/gui/file/66ff8e12139f2192830fd3a0159c549cf756421c61752e2913958d866cab707a",
+        "scan_date": 1737244868,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 1230308,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.pelisplushd-v14.62.apk",
+        "hash": "4dcdba40339a7ad33ed118f5a6d7bf5175251537053ead03e2a1589b1f02ca6e",
+        "link": "https://www.virustotal.com/gui/file/4dcdba40339a7ad33ed118f5a6d7bf5175251537053ead03e2a1589b1f02ca6e",
+        "scan_date": 1737244870,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 1236035,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-it.animesaturn-v14.9.apk",
+        "hash": "94f041e58bece670735e149975e92813233721e8bfcdf8a760efee7914c5f683",
+        "link": "https://www.virustotal.com/gui/file/94f041e58bece670735e149975e92813233721e8bfcdf8a760efee7914c5f683",
+        "scan_date": 1737244871,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 67484,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.pelisforte-v14.19.apk",
+        "hash": "d34c8717cd1f87c72b8d03c64f19b819a4bd4ead8ece1cf344c429d34314448d",
+        "link": "https://www.virustotal.com/gui/file/d34c8717cd1f87c72b8d03c64f19b819a4bd4ead8ece1cf344c429d34314448d",
+        "scan_date": 1737244873,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 654244,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.cine24h-v14.3.apk",
+        "hash": "0b1525beb4b74208c46f37659cc647ed70cc76812a94c4b001c0b6f0b3474cc2",
+        "link": "https://www.virustotal.com/gui/file/0b1525beb4b74208c46f37659cc647ed70cc76812a94c4b001c0b6f0b3474cc2",
+        "scan_date": 1737244875,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 661279,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.estrenosdoramas-v14.2.apk",
+        "hash": "ae57fc3116e301fbca198d1f827fa14f4d7a080d5203fff3e9b4299b2ab4ac53",
+        "link": "https://www.virustotal.com/gui/file/ae57fc3116e301fbca198d1f827fa14f4d7a080d5203fff3e9b4299b2ab4ac53",
+        "scan_date": 1737244877,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 649058,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-de.moflixstream-v14.12.apk",
+        "hash": "6d5f7031893e5ae04be0a4672eafe2805564a46cbd8c91ef6b67e3686b020f02",
+        "link": "https://www.virustotal.com/gui/file/6d5f7031893e5ae04be0a4672eafe2805564a46cbd8c91ef6b67e3686b020f02",
+        "scan_date": 1737244926,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 1217140,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.tioanimeh-v14.21.apk",
+        "hash": "b4433b95d1cb3ae2a21fa4ee81dd77d631f5f2af50c2d9bc81ddcad45b65c3f4",
+        "link": "https://www.virustotal.com/gui/file/b4433b95d1cb3ae2a21fa4ee81dd77d631f5f2af50c2d9bc81ddcad45b65c3f4",
+        "scan_date": 1737244927,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 641309,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-de.animebase-v14.28.apk",
+        "hash": "7cea890d64b6b85a2a6ef20d68877b69896101156a4b57acf7e782660deba63a",
+        "link": "https://www.virustotal.com/gui/file/7cea890d64b6b85a2a6ef20d68877b69896101156a4b57acf7e782660deba63a",
+        "scan_date": 1737244929,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 1295075,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-it.animeworld-v14.41.apk",
+        "hash": "54cfd9348467ac608d14d8dcabc11389df756f8dd80debdbb9be5941d5452571",
+        "link": "https://www.virustotal.com/gui/file/54cfd9348467ac608d14d8dcabc11389df756f8dd80debdbb9be5941d5452571",
+        "scan_date": 1737244931,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 1217495,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.asialiveaction-v14.34.apk",
+        "hash": "0db308a62fc300a038270d2a882694093ba4c36deb282f671379bff787338a0b",
+        "link": "https://www.virustotal.com/gui/file/0db308a62fc300a038270d2a882694093ba4c36deb282f671379bff787338a0b",
+        "scan_date": 1737244932,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 638259,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.veranimes-v14.5.apk",
+        "hash": "28f70aafe252871061cb22e42075dd10eec1276f9b3a59cc7da5e02845fb17aa",
+        "link": "https://www.virustotal.com/gui/file/28f70aafe252871061cb22e42075dd10eec1276f9b3a59cc7da5e02845fb17aa",
+        "scan_date": 1737244934,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 626728,
+        "detected_by": {}
     }
 ]
