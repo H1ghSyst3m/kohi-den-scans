@@ -5249,5 +5249,16 @@
         "file_type": "Android",
         "file_size": 626728,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.subsplease-v14.3.apk",
+        "hash": "b933a8043480fc88e4073124cc9f08cb97813fe7734c20238291391a5223b31d",
+        "link": "https://www.virustotal.com/gui/file/b933a8043480fc88e4073124cc9f08cb97813fe7734c20238291391a5223b31d",
+        "scan_date": 1737419232,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 47414,
+        "detected_by": {}
     }
 ]
