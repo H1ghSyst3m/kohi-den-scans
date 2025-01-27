@@ -6096,5 +6096,16 @@
         "file_type": "Android",
         "file_size": 687219,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-tr.anizm-v14.23.apk",
+        "hash": "07dd6f810835aef27fbc70483d2fc29bfa6ca7a36800b1ac16d71651394cb722",
+        "link": "https://www.virustotal.com/gui/file/07dd6f810835aef27fbc70483d2fc29bfa6ca7a36800b1ac16d71651394cb722",
+        "scan_date": 1737938430,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 123476,
+        "detected_by": {}
     }
 ]
