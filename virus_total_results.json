@@ -6140,5 +6140,49 @@
         "file_type": "Android",
         "file_size": 77559,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-fr.wiflix-v14.9.apk",
+        "hash": "70dd807caf6ef85d7b41ea4ec4067025bc7eb3c87842f85e44a5c86892098a2a",
+        "link": "https://www.virustotal.com/gui/file/70dd807caf6ef85d7b41ea4ec4067025bc7eb3c87842f85e44a5c86892098a2a",
+        "scan_date": 1737980443,
+        "positives": 0,
+        "total": 61,
+        "file_type": "Android",
+        "file_size": 77693,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.animeid-v14.10.apk",
+        "hash": "fa164d8d72aeda64c40af74a7ad3d28ecfe3819ef222f4ed1a63d33e43e0c8b5",
+        "link": "https://www.virustotal.com/gui/file/fa164d8d72aeda64c40af74a7ad3d28ecfe3819ef222f4ed1a63d33e43e0c8b5",
+        "scan_date": 1737980444,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 162779,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.jkanime-v14.28.apk",
+        "hash": "f99580f00e2e8aecbf9afe369ed917c6ce6988c67b9f9cf137112478760e8712",
+        "link": "https://www.virustotal.com/gui/file/f99580f00e2e8aecbf9afe369ed917c6ce6988c67b9f9cf137112478760e8712",
+        "scan_date": 1737980444,
+        "positives": 0,
+        "total": 61,
+        "file_type": "Android",
+        "file_size": 656725,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.gnula-v14.21.apk",
+        "hash": "46e992f7f6363487376383920e4523d920eb066e44bcb04e1e8f09a101fdd46a",
+        "link": "https://www.virustotal.com/gui/file/46e992f7f6363487376383920e4523d920eb066e44bcb04e1e8f09a101fdd46a",
+        "scan_date": 1737980446,
+        "positives": 0,
+        "total": 61,
+        "file_type": "Android",
+        "file_size": 258723,
+        "detected_by": {}
     }
 ]
