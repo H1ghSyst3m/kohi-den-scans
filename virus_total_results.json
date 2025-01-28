@@ -6195,5 +6195,38 @@
         "file_type": "Android",
         "file_size": 100408,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.chineseanime-v14.13.apk",
+        "hash": "c30d95e426f4b8c50d9d82fcc2d4067e9798ebfaa4741979e068a45f93730479",
+        "link": "https://www.virustotal.com/gui/file/c30d95e426f4b8c50d9d82fcc2d4067e9798ebfaa4741979e068a45f93730479",
+        "scan_date": 1738023625,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 124885,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.doramasflix-v14.25.apk",
+        "hash": "6b89afb45f4ba066c5db5cacaed74a7afddad98c73dcf1180206b3989b24574a",
+        "link": "https://www.virustotal.com/gui/file/6b89afb45f4ba066c5db5cacaed74a7afddad98c73dcf1180206b3989b24574a",
+        "scan_date": 1738023626,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 124204,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.seez-v14.11.apk",
+        "hash": "1a299c73c71b2d3c06e9d8c8398500757ce96645fa0e4351a56e4638a51da122",
+        "link": "https://www.virustotal.com/gui/file/1a299c73c71b2d3c06e9d8c8398500757ce96645fa0e4351a56e4638a51da122",
+        "scan_date": 1738023627,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 90055,
+        "detected_by": {}
     }
 ]
