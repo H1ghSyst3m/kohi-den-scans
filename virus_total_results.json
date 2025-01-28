@@ -6184,5 +6184,16 @@
         "file_type": "Android",
         "file_size": 258723,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.animelatinohd-v14.35.apk",
+        "hash": "bfd440a40047daccd53f9c0d1324a89fc4e5e8fdf70f61b6581889d543bff0b1",
+        "link": "https://www.virustotal.com/gui/file/bfd440a40047daccd53f9c0d1324a89fc4e5e8fdf70f61b6581889d543bff0b1",
+        "scan_date": 1738022407,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 100408,
+        "detected_by": {}
     }
 ]
