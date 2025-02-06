@@ -6239,5 +6239,49 @@
         "file_type": "Android",
         "file_size": 61663,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-zh.hanime1-v14.3.apk",
+        "hash": "7304789c1e6f7f7273d831f1feb2790d720eaae11f40055531468ba21daa74f9",
+        "link": "https://www.virustotal.com/gui/file/7304789c1e6f7f7273d831f1feb2790d720eaae11f40055531468ba21daa74f9",
+        "scan_date": 1738800006,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 46426,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-it.animeunity-v14.9.apk",
+        "hash": "8bbac3c55dee6ab586fa7423c988a9de881617527274b9bdda9e4d483a6b246f",
+        "link": "https://www.virustotal.com/gui/file/8bbac3c55dee6ab586fa7423c988a9de881617527274b9bdda9e4d483a6b246f",
+        "scan_date": 1738800008,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 73460,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-zh.iyf-v14.1.apk",
+        "hash": "d39f16fdaf79809b0713f76dfeae5af7ab763d230e4076e6e9ca7a8b75b41aee",
+        "link": "https://www.virustotal.com/gui/file/d39f16fdaf79809b0713f76dfeae5af7ab763d230e4076e6e9ca7a8b75b41aee",
+        "scan_date": 1738800009,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 101045,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-zh.nivod-v14.1.apk",
+        "hash": "b352c828123de9df2b577aa911056083bad507a7a7c56d7ece39e4fc3eca683b",
+        "link": "https://www.virustotal.com/gui/file/b352c828123de9df2b577aa911056083bad507a7a7c56d7ece39e4fc3eca683b",
+        "scan_date": 1738800010,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 62986,
+        "detected_by": {}
     }
 ]
