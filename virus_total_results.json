@@ -6294,5 +6294,27 @@
         "file_type": "Android",
         "file_size": 99137,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-de.serienstream-v14.24.apk",
+        "hash": "aab6e82c6524c9ed1e4e994c5956a196bbc109d2f12cd07f517254f4d2506162",
+        "link": "https://www.virustotal.com/gui/file/aab6e82c6524c9ed1e4e994c5956a196bbc109d2f12cd07f517254f4d2506162",
+        "scan_date": 1739185764,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 102600,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-de.aniworld-v14.25.apk",
+        "hash": "fbd7518791ead3f8d75e62c244263ffc7a899cc79b3bbf5cbafac5f204537947",
+        "link": "https://www.virustotal.com/gui/file/fbd7518791ead3f8d75e62c244263ffc7a899cc79b3bbf5cbafac5f204537947",
+        "scan_date": 1739185985,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 143363,
+        "detected_by": {}
     }
 ]
