@@ -7592,5 +7592,27 @@
         "file_type": "Android",
         "file_size": 102820,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.pifansubs-v14.24.apk",
+        "hash": "0ee91417c3df75a6b9f690b00161c34e58fed4a44fbd07316b231a9a1e1ed0be",
+        "link": "https://www.virustotal.com/gui/file/0ee91417c3df75a6b9f690b00161c34e58fed4a44fbd07316b231a9a1e1ed0be",
+        "scan_date": 1739190913,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 70093,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.monoschinos-v14.35.apk",
+        "hash": "88060a895d9b4654307fede550b71d9781d75105191880ee206586e4cfc610c6",
+        "link": "https://www.virustotal.com/gui/file/88060a895d9b4654307fede550b71d9781d75105191880ee206586e4cfc610c6",
+        "scan_date": 1739222639,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 125759,
+        "detected_by": {}
     }
 ]
