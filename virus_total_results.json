@@ -7988,5 +7988,16 @@
         "file_type": "Android",
         "file_size": 76983,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.javgg-v14.5.apk",
+        "hash": "66f5fe301632f1414f263bb13b31eee5de039a77ae011b3035531f5eb8bfeced",
+        "link": "https://www.virustotal.com/gui/file/66f5fe301632f1414f263bb13b31eee5de039a77ae011b3035531f5eb8bfeced",
+        "scan_date": 1739232863,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 103930,
+        "detected_by": {}
     }
 ]
