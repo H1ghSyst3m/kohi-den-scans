@@ -8450,5 +8450,27 @@
         "file_type": "Android",
         "file_size": 92967,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.goanimes-v14.19.apk",
+        "hash": "539fcfc346e99f7362cec2258de91e313744d78560458ef8e969a2ce0b447a7e",
+        "link": "https://www.virustotal.com/gui/file/539fcfc346e99f7362cec2258de91e313744d78560458ef8e969a2ce0b447a7e",
+        "scan_date": 1739578517,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 660758,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-it.aniplay-v14.13.apk",
+        "hash": "fcb31bba0064a64b5dfd72c9f487e848ac5c07c2e52d6316ecd564d82286f577",
+        "link": "https://www.virustotal.com/gui/file/fcb31bba0064a64b5dfd72c9f487e848ac5c07c2e52d6316ecd564d82286f577",
+        "scan_date": 1739578523,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 72540,
+        "detected_by": {}
     }
 ]
