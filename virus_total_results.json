@@ -8538,5 +8538,16 @@
         "file_type": "Android",
         "file_size": 638643,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-fr.franime-v14.17.apk",
+        "hash": "e2c521ed78fc479c9aa592c041c1928c8728a0f079fde6a124ad531771ca66bf",
+        "link": "https://www.virustotal.com/gui/file/e2c521ed78fc479c9aa592c041c1928c8728a0f079fde6a124ad531771ca66bf",
+        "scan_date": 1739621425,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 76748,
+        "detected_by": {}
     }
 ]
