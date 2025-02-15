@@ -8472,5 +8472,71 @@
         "file_type": "Android",
         "file_size": 72540,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.pandrama-v14.2.apk",
+        "hash": "31999aad4af376fd8f5a3286c2582d39033f95398f6277edaed96ebe6bcd5da7",
+        "link": "https://www.virustotal.com/gui/file/31999aad4af376fd8f5a3286c2582d39033f95398f6277edaed96ebe6bcd5da7",
+        "scan_date": 1739620809,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 85447,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-fr.animesama-v14.11.apk",
+        "hash": "352308d8b271cdf114fb263f808315b129001265327c50f5741ae1b17efcb97f",
+        "link": "https://www.virustotal.com/gui/file/352308d8b271cdf114fb263f808315b129001265327c50f5741ae1b17efcb97f",
+        "scan_date": 1739620810,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 75199,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pl.docchi-v14.2.apk",
+        "hash": "1e0b36bab623e2bffe675245a214e065ef3497bed18ecf899bd41b813b8c8263",
+        "link": "https://www.virustotal.com/gui/file/1e0b36bab623e2bffe675245a214e065ef3497bed18ecf899bd41b813b8c8263",
+        "scan_date": 1739620811,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 120961,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-tr.turkanime-v14.34.apk",
+        "hash": "0ed7c93f33d5b55fd5d7ceacad8ffee91cbe5db9e02986b315937ce3ad385171",
+        "link": "https://www.virustotal.com/gui/file/0ed7c93f33d5b55fd5d7ceacad8ffee91cbe5db9e02986b315937ce3ad385171",
+        "scan_date": 1739620813,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 808940,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-tr.asyaanimeleri-v14.8.apk",
+        "hash": "25ae38e78fd2146888e80991776d4c3b0fa5ddb53d591160ebcb7976cb6c5287",
+        "link": "https://www.virustotal.com/gui/file/25ae38e78fd2146888e80991776d4c3b0fa5ddb53d591160ebcb7976cb6c5287",
+        "scan_date": 1739620814,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 91799,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.asialiveaction-v14.36.apk",
+        "hash": "09efc6c66e5d214a89445c01f09d728aec92fc6f035754e82fe573832a46d074",
+        "link": "https://www.virustotal.com/gui/file/09efc6c66e5d214a89445c01f09d728aec92fc6f035754e82fe573832a46d074",
+        "scan_date": 1739620816,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 638643,
+        "detected_by": {}
     }
 ]
