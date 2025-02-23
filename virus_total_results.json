@@ -8582,5 +8582,27 @@
         "file_type": "Android",
         "file_size": 63390,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-zh.xfani-v14.5.apk",
+        "hash": "4b94105e00004abd896ff233530c38b746e68710f50a2411de104f3a77c49ed2",
+        "link": "https://www.virustotal.com/gui/file/4b94105e00004abd896ff233530c38b746e68710f50a2411de104f3a77c49ed2",
+        "scan_date": 1740268810,
+        "positives": 0,
+        "total": 71,
+        "file_type": "Android",
+        "file_size": 148148,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.shabakatycinemana-v14.2.apk",
+        "hash": "f60ab15e9179b7994a673212f5eac9cf5a9b7ea820bb8b9f131001edb68243af",
+        "link": "https://www.virustotal.com/gui/file/f60ab15e9179b7994a673212f5eac9cf5a9b7ea820bb8b9f131001edb68243af",
+        "scan_date": 1740268811,
+        "positives": 0,
+        "total": 70,
+        "file_type": "Android",
+        "file_size": 71742,
+        "detected_by": {}
     }
 ]
