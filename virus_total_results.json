@@ -8615,5 +8615,16 @@
         "file_type": "Android",
         "file_size": 160326,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.animesotaku-v14.2.apk",
+        "hash": "55b9b54813a617db446c311a926e514b6389b58aa9d5d031e67ea2598723afaa",
+        "link": "https://www.virustotal.com/gui/file/55b9b54813a617db446c311a926e514b6389b58aa9d5d031e67ea2598723afaa",
+        "scan_date": 1740528006,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 103045,
+        "detected_by": {}
     }
 ]
