@@ -8659,5 +8659,27 @@
         "file_type": "Android",
         "file_size": 160379,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-hi.animesaga-v14.18.apk",
+        "hash": "1e2aff856d600c90c1f4ab5f899c852e8769707a13089cb8646967b481993a4d",
+        "link": "https://www.virustotal.com/gui/file/1e2aff856d600c90c1f4ab5f899c852e8769707a13089cb8646967b481993a4d",
+        "scan_date": 1740960005,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 65259,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.animefenix-v14.57.apk",
+        "hash": "97b066c37a5ca10bf4db193e4d53cc2841ab1cc7adf3686eac81cf936ec260d1",
+        "link": "https://www.virustotal.com/gui/file/97b066c37a5ca10bf4db193e4d53cc2841ab1cc7adf3686eac81cf936ec260d1",
+        "scan_date": 1740960007,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 154366,
+        "detected_by": {}
     }
 ]
