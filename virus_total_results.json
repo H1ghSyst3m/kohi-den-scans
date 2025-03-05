@@ -8681,5 +8681,16 @@
         "file_type": "Android",
         "file_size": 154366,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.animeowl-v14.22.apk",
+        "hash": "fefadd7f51a943d34c8b7763a7b34e5c5016949ef8bc0c604c4ea20662b5952b",
+        "link": "https://www.virustotal.com/gui/file/fefadd7f51a943d34c8b7763a7b34e5c5016949ef8bc0c604c4ea20662b5952b",
+        "scan_date": 1741132806,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 207592,
+        "detected_by": {}
     }
 ]
