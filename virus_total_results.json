@@ -8692,5 +8692,16 @@
         "file_type": "Android",
         "file_size": 207592,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.animeworldindia-v14.15.apk",
+        "hash": "1ac44d3dfa8fcd4d6675be4de3623a1610cd5c3b67e857912a2ed38ce6c35079",
+        "link": "https://www.virustotal.com/gui/file/1ac44d3dfa8fcd4d6675be4de3623a1610cd5c3b67e857912a2ed38ce6c35079",
+        "scan_date": 1741305606,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 94491,
+        "detected_by": {}
     }
 ]
