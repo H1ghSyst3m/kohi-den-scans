@@ -8703,5 +8703,16 @@
         "file_type": "Android",
         "file_size": 94491,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.otakuverso-v14.1.apk",
+        "hash": "a6935f1887702534639e81d49c11c6eda1d4df8a49e229d92adf312d5bc549a9",
+        "link": "https://www.virustotal.com/gui/file/a6935f1887702534639e81d49c11c6eda1d4df8a49e229d92adf312d5bc549a9",
+        "scan_date": 1741392006,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 817335,
+        "detected_by": {}
     }
 ]
