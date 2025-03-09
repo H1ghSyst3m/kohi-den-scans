@@ -8714,5 +8714,16 @@
         "file_type": "Android",
         "file_size": 817335,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.anitube-v14.24.apk",
+        "hash": "b19730c1dd65b129239787db5e8dab3b573ae4388ea1c79457febe9fc32c66f5",
+        "link": "https://www.virustotal.com/gui/file/b19730c1dd65b129239787db5e8dab3b573ae4388ea1c79457febe9fc32c66f5",
+        "scan_date": 1741479309,
+        "positives": 0,
+        "total": 61,
+        "file_type": "Android",
+        "file_size": 64218,
+        "detected_by": {}
     }
 ]
