@@ -8725,5 +8725,16 @@
         "file_type": "Android",
         "file_size": 64218,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.animesgratis-v14.20.apk",
+        "hash": "590a7c27d1339679660598fcfbea9085da66a322585b6848fb90ed791885dda8",
+        "link": "https://www.virustotal.com/gui/file/590a7c27d1339679660598fcfbea9085da66a322585b6848fb90ed791885dda8",
+        "scan_date": 1742083272,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 90907,
+        "detected_by": {}
     }
 ]
