@@ -8791,5 +8791,27 @@
         "file_type": "Android",
         "file_size": 99639,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.aniplay-v14.18.apk",
+        "hash": "2d400f54f4918c27c983990cfa9daf3e76b25fd515fcb9bbf50beda7153154f2",
+        "link": "https://www.virustotal.com/gui/file/2d400f54f4918c27c983990cfa9daf3e76b25fd515fcb9bbf50beda7153154f2",
+        "scan_date": 1743465907,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 99357,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.animeowl-v14.23.apk",
+        "hash": "0ef56167321ba257ceec0e5bf50011ae8eff4e33938e53a2ced66cb1b6126a24",
+        "link": "https://www.virustotal.com/gui/file/0ef56167321ba257ceec0e5bf50011ae8eff4e33938e53a2ced66cb1b6126a24",
+        "scan_date": 1743465908,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 208009,
+        "detected_by": {}
     }
 ]
