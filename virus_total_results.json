@@ -8813,5 +8813,16 @@
         "file_type": "Android",
         "file_size": 208009,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pl.docchi-v14.3.apk",
+        "hash": "39a7117cffd8b9f3c8e677d12ddbc6489b3d42c1d662cf3d1c141f15a826a969",
+        "link": "https://www.virustotal.com/gui/file/39a7117cffd8b9f3c8e677d12ddbc6489b3d42c1d662cf3d1c141f15a826a969",
+        "scan_date": 1743985752,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 123837,
+        "detected_by": {}
     }
 ]
