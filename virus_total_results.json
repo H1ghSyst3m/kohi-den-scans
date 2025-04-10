@@ -8835,5 +8835,60 @@
         "file_type": "Android",
         "file_size": 160325,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.kaido-v14.13.apk",
+        "hash": "f3e99e8ea8df11313ee4984289c01aeb6352a043ba825a828d1adca5a9af6749",
+        "link": "https://www.virustotal.com/gui/file/f3e99e8ea8df11313ee4984289c01aeb6352a043ba825a828d1adca5a9af6749",
+        "scan_date": 1744243210,
+        "positives": 0,
+        "total": 60,
+        "file_type": "Android",
+        "file_size": 160383,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.kickassanime-v14.46.apk",
+        "hash": "9df4350b1ff78a3cd2af5478553a075ba7b923591d7a00d58df739cae0a52143",
+        "link": "https://www.virustotal.com/gui/file/9df4350b1ff78a3cd2af5478553a075ba7b923591d7a00d58df739cae0a52143",
+        "scan_date": 1744243211,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 94589,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.animekhor-v14.10.apk",
+        "hash": "34eca7069f6dc5d3ef6ebd90824361e21b6edf2d3dda74d7a789b640958dca66",
+        "link": "https://www.virustotal.com/gui/file/34eca7069f6dc5d3ef6ebd90824361e21b6edf2d3dda74d7a789b640958dca66",
+        "scan_date": 1744243213,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 673312,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.animepahe-v14.30.apk",
+        "hash": "6d738acaf7442c95f3002a01bb58571d092115771e45b50a9900df85ef231178",
+        "link": "https://www.virustotal.com/gui/file/6d738acaf7442c95f3002a01bb58571d092115771e45b50a9900df85ef231178",
+        "scan_date": 1744243214,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 645636,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.aniplay-v14.19.apk",
+        "hash": "5dca44d37a460231da03bdc96a82cdc418eb4505c655994ddba3742cadefc9c7",
+        "link": "https://www.virustotal.com/gui/file/5dca44d37a460231da03bdc96a82cdc418eb4505c655994ddba3742cadefc9c7",
+        "scan_date": 1744243215,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 99324,
+        "detected_by": {}
     }
 ]
