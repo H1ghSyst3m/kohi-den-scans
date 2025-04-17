@@ -8934,5 +8934,27 @@
         "file_type": "Android",
         "file_size": 160329,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.torrentioanime-v14.16.apk",
+        "hash": "39d3c967430691fc1188fe21abe4216d5533907a46798fee1e6aeab7c251fc6e",
+        "link": "https://www.virustotal.com/gui/file/39d3c967430691fc1188fe21abe4216d5533907a46798fee1e6aeab7c251fc6e",
+        "scan_date": 1744848007,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 95158,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.zoro-v14.54.apk",
+        "hash": "5fef19e00e9bec45adb2d7851c398633f00c45a366f506cde93b3a17b58b926b",
+        "link": "https://www.virustotal.com/gui/file/5fef19e00e9bec45adb2d7851c398633f00c45a366f506cde93b3a17b58b926b",
+        "scan_date": 1744848009,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 160935,
+        "detected_by": {}
     }
 ]
