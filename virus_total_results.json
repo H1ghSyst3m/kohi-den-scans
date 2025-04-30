@@ -8978,5 +8978,49 @@
         "file_type": "Android",
         "file_size": 162014,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.kickassanime-v14.47.apk",
+        "hash": "9ffcc3d218feabd311aa2ec59cd766eb9d060ceffdf344c8174b63c0e1a51142",
+        "link": "https://www.virustotal.com/gui/file/9ffcc3d218feabd311aa2ec59cd766eb9d060ceffdf344c8174b63c0e1a51142",
+        "scan_date": 1745971205,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 95868,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.aniplay-v14.22.apk",
+        "hash": "90fd2cf39c67c36e43af24f65934c986252c31fc56a2597ff123c2b8a9f72187",
+        "link": "https://www.virustotal.com/gui/file/90fd2cf39c67c36e43af24f65934c986252c31fc56a2597ff123c2b8a9f72187",
+        "scan_date": 1745971207,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 102775,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-hi.animesaga-v14.19.apk",
+        "hash": "25aa870da4287f77f180c164135a873af927faac14fa5c81d2e6fcefcbf2a140",
+        "link": "https://www.virustotal.com/gui/file/25aa870da4287f77f180c164135a873af927faac14fa5c81d2e6fcefcbf2a140",
+        "scan_date": 1745971208,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 67097,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.kaido-v14.14.apk",
+        "hash": "fd25efef33b84b6c170585807e3db573441562e81d88c4e1205f8c55840287e9",
+        "link": "https://www.virustotal.com/gui/file/fd25efef33b84b6c170585807e3db573441562e81d88c4e1205f8c55840287e9",
+        "scan_date": 1745971210,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 161324,
+        "detected_by": {}
     }
 ]
