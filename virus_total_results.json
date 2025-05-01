@@ -9990,5 +9990,27 @@
         "file_type": "Android",
         "file_size": 79292,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.chineseanime-v14.17.apk",
+        "hash": "53c19690c7014c9649167469b9ad2259530c0f1a6a9f4f52d7f7421d1651353c",
+        "link": "https://www.virustotal.com/gui/file/53c19690c7014c9649167469b9ad2259530c0f1a6a9f4f52d7f7421d1651353c",
+        "scan_date": 1746102092,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 126582,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.hackstore-v14.26.apk",
+        "hash": "1c5ba73a2dc29c5db2078ca1b12a1060f7722d12a3e5d9fcc6593ee798e292b7",
+        "link": "https://www.virustotal.com/gui/file/1c5ba73a2dc29c5db2078ca1b12a1060f7722d12a3e5d9fcc6593ee798e292b7",
+        "scan_date": 1746102099,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 113873,
+        "detected_by": {}
     }
 ]
