@@ -10012,5 +10012,27 @@
         "file_type": "Android",
         "file_size": 113873,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.hikari-v14.19.apk",
+        "hash": "2eae754a6969ad891feea0cdfec3b4676af248db3088d0289c9e170d746d8bfe",
+        "link": "https://www.virustotal.com/gui/file/2eae754a6969ad891feea0cdfec3b4676af248db3088d0289c9e170d746d8bfe",
+        "scan_date": 1746144008,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 163735,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.animepahe-v14.31.apk",
+        "hash": "7167a30e0e89e8d13858b372a4cb4fac8be665f1e3fc3d4eaeee4c08d539cadd",
+        "link": "https://www.virustotal.com/gui/file/7167a30e0e89e8d13858b372a4cb4fac8be665f1e3fc3d4eaeee4c08d539cadd",
+        "scan_date": 1746144010,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 645666,
+        "detected_by": {}
     }
 ]
