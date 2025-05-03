@@ -10056,5 +10056,38 @@
         "file_type": "Android",
         "file_size": 50173,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.hikari-v14.20.apk",
+        "hash": "f35042502098130118be3854678e5abed8dfdbb0347da2c2638242d0c6905725",
+        "link": "https://www.virustotal.com/gui/file/f35042502098130118be3854678e5abed8dfdbb0347da2c2638242d0c6905725",
+        "scan_date": 1746273606,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 163824,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-hi.animesaga-v14.22.apk",
+        "hash": "fbae4806850cb24256e8e591821bb7044e06281a23c6a10ce46b32d8ce46dccf",
+        "link": "https://www.virustotal.com/gui/file/fbae4806850cb24256e8e591821bb7044e06281a23c6a10ce46b32d8ce46dccf",
+        "scan_date": 1746273607,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 65507,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.tokuzilla-v14.23.apk",
+        "hash": "4aac9fdab305c0b399372b9b4ebf1590ab943e1956bbad0f49f849cdab232172",
+        "link": "https://www.virustotal.com/gui/file/4aac9fdab305c0b399372b9b4ebf1590ab943e1956bbad0f49f849cdab232172",
+        "scan_date": 1746273608,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 61496,
+        "detected_by": {}
     }
 ]
