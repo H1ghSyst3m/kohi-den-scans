@@ -11332,5 +11332,16 @@
         "file_type": "Android",
         "file_size": 171381,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-it.toonitalia-v14.26.apk",
+        "hash": "a0475d4a7d829117a506cf4d128a79c6fa91274d20ffcba88d47361014260654",
+        "link": "https://www.virustotal.com/gui/file/a0475d4a7d829117a506cf4d128a79c6fa91274d20ffcba88d47361014260654",
+        "scan_date": 1746318367,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 645900,
+        "detected_by": {}
     }
 ]
