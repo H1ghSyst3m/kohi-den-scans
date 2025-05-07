@@ -11673,5 +11673,16 @@
         "file_type": "Android",
         "file_size": 165551,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-ar.witanime-v14.53.apk",
+        "hash": "003f4648d1a730ba69488fc5190489fc580dda2f21d6adc7b354baf1c86a348d",
+        "link": "https://www.virustotal.com/gui/file/003f4648d1a730ba69488fc5190489fc580dda2f21d6adc7b354baf1c86a348d",
+        "scan_date": 1746576005,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 87427,
+        "detected_by": {}
     }
 ]
