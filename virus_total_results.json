@@ -11662,5 +11662,16 @@
         "file_type": "Android",
         "file_size": 75257,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.hikari-v14.22.apk",
+        "hash": "aa038735ec279be36b2e3a9c8747b9b4da8c22a45b1331ff4518baa4f9e58d91",
+        "link": "https://www.virustotal.com/gui/file/aa038735ec279be36b2e3a9c8747b9b4da8c22a45b1331ff4518baa4f9e58d91",
+        "scan_date": 1746569685,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 165551,
+        "detected_by": {}
     }
 ]
