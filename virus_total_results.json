@@ -11684,5 +11684,27 @@
         "file_type": "Android",
         "file_size": 87427,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.jpfilms-v14.1.apk",
+        "hash": "c21461ac76260a7cc915bf9f53c2dff2426498c94ecd6c14651936e59581f0fe",
+        "link": "https://www.virustotal.com/gui/file/c21461ac76260a7cc915bf9f53c2dff2426498c94ecd6c14651936e59581f0fe",
+        "scan_date": 1746792007,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 99363,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.aniplay-v14.24.apk",
+        "hash": "6b89191258d590423fa6ea0444df4b97ff7091e5bdd35bf4b75a03a4e3bd7658",
+        "link": "https://www.virustotal.com/gui/file/6b89191258d590423fa6ea0444df4b97ff7091e5bdd35bf4b75a03a4e3bd7658",
+        "scan_date": 1746792008,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 102455,
+        "detected_by": {}
     }
 ]
